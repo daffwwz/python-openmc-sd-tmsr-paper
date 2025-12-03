@@ -20,3 +20,10 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+#Code file
+*.py
+*.ipynb
+
+#XSdata files
+.xsdata/
