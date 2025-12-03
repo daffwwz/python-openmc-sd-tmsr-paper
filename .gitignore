@@ -1,6 +1,6 @@
 #Code file
 *.py
-*.ipynb
+# *.ipynb
 
 #XSdata files
 /data/xsdata/
