@@ -26,4 +26,4 @@ TestResults.xml
 *.ipynb
 
 #XSdata files
-.xsdata/
+/data/xsdata/
